@@ -47,6 +47,7 @@ def main():
                 .relic_mop()
                 .relic_slavers_collar()
                 .relic_coffeed()
+                .relic_the_specimen()
 
 
                 # .relic_omamori()

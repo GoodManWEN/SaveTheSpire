@@ -196,6 +196,10 @@ class SaveFile:
     def relic_chemical(self):    # x+2
         self.add_relic_from_shop('Chemical X')
         return self    
+    
+    def relic_the_specimen(self):  # 植物标本
+        self.add_relic_for_prepare('The Specimen')
+        return self
 
     def relic_bottled_tornado(self):
         self.add_relic_for_prepare('Bottled Tornado')
