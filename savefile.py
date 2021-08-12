@@ -198,7 +198,7 @@ class SaveFile:
         return self    
     
     def relic_the_specimen(self):  # 植物标本
-        self.add_relic_for_prepare('The Specimen')
+        self.add_relic_from_shop('The Specimen')
         return self
 
     def relic_bottled_tornado(self):
