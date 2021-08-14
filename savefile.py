@@ -200,6 +200,10 @@ class SaveFile:
     def relic_the_specimen(self):  # 植物标本
         self.add_relic_from_shop('The Specimen')
         return self
+    
+    def relic_frozen_egg(self):
+        self.add_relic_from_shop('Frozen Egg 2')
+        return self
 
     def relic_bottled_tornado(self):
         self.add_relic_for_prepare('Bottled Tornado')
