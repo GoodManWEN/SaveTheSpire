@@ -1,4 +1,4 @@
-# Save-The-Spire
+# SaveTheSpire
 A save editor for the game Slay the Spire
 
 ## Usage
